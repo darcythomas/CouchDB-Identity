@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "CouchDB_Identity"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-CouchDB_Identity-9ae6fa16-32bd-47a7-ac69-ea0227da5d43;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
